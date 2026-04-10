@@ -3,6 +3,6 @@
   "version": "1.0.3",
   "mandatory": true,
   "url": "https://github.com/exiliumpy/nutrifitness-erp-updates/releases/download/v1.0.3/NutriERP-1.0.3.msi",
-  "notes": "Correcciones en Exportacion de Excel.",
+  "notes": "Mapa y Colores.",
   "minUpdaterVersion": "1.0.0"
 }
