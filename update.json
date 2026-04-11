@@ -1,6 +1,6 @@
 {
   "appName": "NutriFitness ERP",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "mandatory": true,
   "url": "https://github.com/exiliumpy/nutrifitness-erp-updates/releases/download/v1.0.4/NutriERP-1.0.4.msi",
   "notes": "Correcciones para importacion de excel.. y optimizacion general.",
