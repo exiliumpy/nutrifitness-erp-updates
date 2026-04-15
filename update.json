@@ -1,8 +1,11 @@
 {
   "appName": "NutriFitness ERP",
-  "version": "1.1.1",
+  "version": "1.2.1",
   "mandatory": false,
-  "url": "https://github.com/exiliumpy/nutrifitness-erp-updates/releases/download/v1.1.1/NutriERP-1.1.1.msi",
-  "notes": "Nueva ventana de Resumen Producción, importación Excel optimizada con validación por filas, mejoras de mapeo de productos/medidas/combos y mayor estabilidad general.",
+  "url": "https://github.com/exiliumpy/nutrifitness-erp-updates/releases/download/v1.2.1/NutriERP-1.2.1.msi",
+  "notes":     "TMS despacho",
+    "Carga automatica PREPARANDO/REAGENDADO",
+    "Recalculo de ruta en caliente",
+    "Google Maps al iniciar ruta",
   "minUpdaterVersion": "1.0.0"
 }
