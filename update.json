@@ -1,8 +1,8 @@
 {
   "appName": "NutriFitness ERP",
-  "version": "1.7.0",
+  "version": "1.7.1",
   "mandatory": false,
-  "url": "https://github.com/exiliumpy/nutrifitness-erp-updates/releases/download/v1.7.0/NutriERP-1.7.0.msi",
+  "url": "https://github.com/exiliumpy/nutrifitness-erp-updates/releases/download/v1.7.1/NutriERP-1.7.1.msi",
   "notes":     "update",
   "minUpdaterVersion": "1.0.0"
 }
